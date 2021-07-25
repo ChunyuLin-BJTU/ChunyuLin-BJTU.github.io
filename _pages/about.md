@@ -12,12 +12,12 @@ redirect_from:
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>林春雨</h1>
-      <p><b>教授 博导 博士</b></p>
-      <p><b>北京交通大学 计算机与信息技术学院 信息科学研究所</b></p>
-      <p><b>邮箱：cylin@bjtu.edu.cn</b></p>
-      <p><b>地址：北京市海淀区上元村3号，信息楼9教北618，邮编100044</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Chunyu Lin</h1>
+      <p><b>Professor PhD Supervisor </b></p>
+      <p><b>Institute of Information science Beijing Jiaotong University</b></p>
+      <p><b>Email：cylin@bjtu.edu.cn</b></p>
+      <p><b>Address：Beijing Jiaotong University, Information Building 618(north), 100044, Beijing, China</b></p>
+      <p><a href="/index.html">English Version</a></p>
     </td>
     <td width="35%">
       <img src="./lin2.jpg" width="100%">
@@ -25,6 +25,12 @@ redirect_from:
   </tr>
 </table>
 </div>
+======
+### Research Intesrest
+- <a href="./coding.html">image and video coding</a>
+- <a href="./3d.html">3D vision</a>
+- <a href="./adas.html">ADAS based on vison</a>
+- <a href="./vr.html">Vision in virtual reality(VR) and Augumented relaity(AR)</a>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
