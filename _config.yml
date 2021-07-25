@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Chinese(中文)
   - scope:
       path: ""
-      type: portfolio
+      type: chinsese
     values:
       layout: single
       author_profile: true
