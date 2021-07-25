@@ -2,7 +2,7 @@
 title: "Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow"
 collection: publications
 permalink: /publication/Progressively-Complementary-Network-for-Fisheye-Image-Rectification-Using-Appearance-Flow
-excerpt: ' Distortion rectification <br/><img src='/images/cvpr_highlight.jpg'>'
+excerpt: ' Distortion rectification <br/><img src='/images/500x300.jpg'>'
 date: 2021-05-01
 venue: 'Conference CVPR 2021'
 #paperurl: 'https://academic.microsoft.com/paper/3177176136/related'
