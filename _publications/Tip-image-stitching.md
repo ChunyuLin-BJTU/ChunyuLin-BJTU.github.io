@@ -2,7 +2,7 @@
 title: "Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images"
 collection: publications
 permalink: /publication/Tip-image-stitching
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/tip_nielang.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/tip_nielang.jpg'>"
 date: 2021-05-01
 venue: 'IEEE TRANACTIONS ON IMAGE PROCESSING 2021'
 citation: 'Lang Nie, Chunyu Lin, Kang Liao, Shuaicheng Liu and Yao Zhao, "Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images," in IEEE Transactions on Image Processing, vol. 30, pp. 6184-6197, 2021.'
