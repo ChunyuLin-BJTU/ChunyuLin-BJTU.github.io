@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Chunyu Lin"
   avatar           : "my_photo.jpg"
-#   bio              : "Beijing Jiaotong University <br> <br> Professor at BJTU, <a style='color: black;' href='http://faculty.bjtu.edu.cn/8549/'>School of Computer and Information Technology</a> & <a style='color: black;' href='http://bjtu.edu.cn'>Beijing Jiaotong University</a>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Hal?c?o?lu Data Science Institute</a>"
+  bio              : "Beijing Jiaotong University <br> <br> Professor at BJTU, <a style='color: black;' href='http://faculty.bjtu.edu.cn/8549/'>School of Computer and Information Technology</a> & <a style='color: black;' href='http://bjtu.edu.cn'>Beijing Jiaotong University </a>"
+#  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Hal?c?o?lu Data Science Institute</a>"
 
   location         : "Beijing, China"
   employer         : 
