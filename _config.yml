@@ -214,23 +214,22 @@ defaults:
       type: teaching
     values:
       layout: single
-      read_time: false
       author_profile: true
-      share: false
-      comments: false
-  # _articles
+      share: true
+      comments: true
+  # _publications
   - scope:
       path: ""
-      type: articles
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _expressions
+  # _portfolio
   - scope:
       path: ""
-      type: expressions
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -244,7 +243,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -259,12 +258,11 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -291,9 +289,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-article_archive:
-  type: liquid
-  path: /articles/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
