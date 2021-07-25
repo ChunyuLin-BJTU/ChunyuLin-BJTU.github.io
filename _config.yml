@@ -80,11 +80,8 @@ analytics:
 author:
   name             : "Chunyu Lin"
   avatar           : "my_photo.jpg"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
    bio              : "Beijing Jiaotong University <br> <br> Professor at BJTU, <a style='color: black;' href='http://faculty.bjtu.edu.cn/8549/'>School of Computer and Information Technology</a> & <a style='color: black;' href='http://bjtu.edu.cn'>Beijing Jiaotong University</a>"
-#  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
- 
+
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=t8xkhscAAAAJ&hl=en&citsig=AMD79oo41W0riYUET2EbIcdIYLRx-MF55A"
