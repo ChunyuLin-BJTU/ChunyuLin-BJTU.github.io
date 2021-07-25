@@ -7,11 +7,7 @@ date: 2021-05-01
 venue: 'Conference 1'
 paperurl: 'https://academic.microsoft.com/paper/3177176136/related'
 citation: 'Yang, Shangrong, Chunyu Lin, Kang Liao, Chunjie Zhang, Yao Zhao. “Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow.” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 6348–6357'
----
-    </td>
-    <td width="35%">
-      <img src="./data/my_photo.jpg" width="100%">
-    </td>
+
 [Download paper here](https://academic.microsoft.com/paper/3177176136/related)
 
 Recommended citation: Yang, Shangrong, et al. “Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow.” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 6348–6357.
