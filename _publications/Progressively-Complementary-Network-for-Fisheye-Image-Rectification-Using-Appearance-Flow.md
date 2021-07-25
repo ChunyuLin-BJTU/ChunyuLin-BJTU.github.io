@@ -6,13 +6,7 @@ excerpt: 'Distortion rectification is often required for fisheye images. The gen
 date: 2021-05-01
 venue: 'Conference 1'
 paperurl: 'https://academic.microsoft.com/paper/3177176136/related'
-citation: '@inproceedings{yang2021progressively,
-	title="Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow",
-	author="Shangrong {Yang} and Chunyu {Lin} and Kang {Liao} and Chunjie {Zhang} and Yao {Zhao}",
-	booktitle="Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-	pages="6348--6357",
-		year="2021"
-}'
+citation: 'Yang, Shangrong, Chunyu Lin, Kang Liao, Chunjie Zhang, Yao Zhao. ‚ÄúProgressively Complementary Network for Fisheye Image Rectification Using Appearance Flow.‚Äù Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 6348‚Äì6357'
 ---
     </td>
     <td width="35%">
@@ -20,4 +14,4 @@ citation: '@inproceedings{yang2021progressively,
     </td>
 [Download paper here](https://academic.microsoft.com/paper/3177176136/related)
 
-Recommended citation: Yang, Shangrong, et al. °∞Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow.°± Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 6348®C6357.
+Recommended citation: Yang, Shangrong, et al. ‚ÄúProgressively Complementary Network for Fisheye Image Rectification Using Appearance Flow.‚Äù Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 6348‚Äì6357.
