@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Chinese(中文)"
-    url: /Chinese/
-    
   - title: "Publications"
     url: /publications/
 
@@ -13,3 +10,6 @@ main:
   
   - title: "Contact"
     url: /contact/
+    
+  - title: "Short Introduction(En)"
+    url: /Chinese/
