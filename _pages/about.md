@@ -37,8 +37,8 @@ redirect_from:
 
 
 ### 研究方向
-- <a href="./coding.html">图像视频编解码</a>
-- <a href="./3d.html">三维视频处理</a>
+- <a href="coding.html">图像视频编解码</a>
+- <a href="3d.html">三维视频处理</a>
 - <a href="./adas.html">基于视觉的ADAS及自动驾驶</a>
 - <a href="./vr.html">虚拟现实及增强现实中的视觉算法研究</a>
 
