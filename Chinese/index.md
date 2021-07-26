@@ -15,10 +15,10 @@
   </tr>
 </table>
 </div>
-======
+
 ### Research Intesrest
--3D vision (image point cloud calibration and fusion, depth estimation, RGB-D data processing, 3D point cloud target detection, 3D object size perception, 3D reconstruction)
--Image video coding (image codec, panoramic image video codec, h.264, HEVC, error-resilient video coding, streaming media transmission)
+- 3D vision (image point cloud calibration and fusion, depth estimation, RGB-D data processing, 3D point cloud target detection, 3D object size perception, 3D reconstruction)
+-  Image video coding (image codec, panoramic image video codec, h.264, HEVC, error-resilient video coding, streaming media transmission)
 -Vision-based ADAS and automatic driving (3D surround assistant driving, pedestrian detection and pose estimation, lane line detection, lane departure, parking space detection, traffic light detection, etc.)
--Vision in VR and AR(virtual reality camera, panoramic image mosaic, plane detection in augmented reality)
+- Vision in VR and AR(virtual reality camera, panoramic image mosaic, plane detection in augmented reality)
 
