@@ -230,7 +230,7 @@ defaults:
   # _ShortIntroduction(En)
   - scope:
       path: ""
-      type: chinsese
+      type: ShortIntroduction(En)
     values:
       layout: single
       author_profile: true
