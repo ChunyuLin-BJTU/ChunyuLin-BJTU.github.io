@@ -1,0 +1,25 @@
+
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Chunyu Lin</h1>
+      <p><b>Professor PhD Supervisor </b></p>
+      <p><b>Institute of Information science Beijing Jiaotong University</b></p>
+      <p><b>Email：cylin@bjtu.edu.cn</b></p>
+      <p><b>Address：Beijing Jiaotong University, Information Building 618(north), 100044, Beijing, China</b></p>
+      <p><a href="/index.html">English Version</a></p>
+    </td>
+    <td width="35%">
+      <img src="./lin2.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
+======
+### Research Intesrest
+- <a href="./coding.html">image and video coding</a>
+- <a href="./3d.html">3D vision</a>
+- <a href="./adas.html">ADAS based on vison</a>
+- <a href="./vr.html">Vision in virtual reality(VR) and Augumented relaity(AR)</a>
+======
