@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Short Introduction(En)"
+title                    : "ShortIntroduction"
 title_separator          : "-"
 name                     : &name "Chunyu Lin"
 description              : &description "Beijing Jiaotong University <br/>BJTU"
