@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _ShortIntroduction(En)
+  # _ShortIntroduction
   - scope:
       path: ""
-      type: ShortIntroduction(En)
+      type: ShortIntroduction
     values:
       layout: single
       author_profile: true
