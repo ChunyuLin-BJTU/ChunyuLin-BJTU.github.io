@@ -21,7 +21,8 @@ redirect_from:
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="35%">
-      <img src="./lin2.jpg" width="100%">
+      #<img src="./lin2.jpg" width="100%">
+      ![个人照片](/lin2.jpg)
     </td>
   </tr>
 </table>
