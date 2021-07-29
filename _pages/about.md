@@ -22,7 +22,7 @@ redirect_from:
     </td>
     <td width="35%">
       <img src="./lin2.jpg" width="100%">
-     # ![个人照片](./lin2.jpg)
+
     </td>
   </tr>
 </table>
